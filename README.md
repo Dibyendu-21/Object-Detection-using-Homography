@@ -3,3 +3,5 @@ This repo gives a demonstration as to how to detect any query objects which is p
 
 In essence, the code returns the locations of a query object present in the source image which is sufficient to detect the query object exactly on the source Image.
 
+Different query objects are extracted from the source image using Microsoft paint and the methodology is evaluated on all the query objects. Beacuse of matching features each between the extracted object and its source image, all the query objects were detected correctly.
+
